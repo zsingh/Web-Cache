@@ -1,0 +1,6 @@
+A homework assignment from my advanced programming class.
+We had to implement a web cache in any language. I chose the C
+programming language.
+
+After it is compiled, included a web page when it is run; it will output
+the html of the page.
